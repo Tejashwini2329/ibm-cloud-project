@@ -1,9 +1,28 @@
 # ibm-cloud-project
-A no-code IBM Cloud AI assistant
+HealthMate – Personalized Wellness and Habit Assistant
+HealthMate is a no-code, agentic AI-powered virtual assistant developed using IBM Watsonx Assistant. It is embedded into a responsive HTML fitness website template and helps users track and improve their wellness habits.
 
-Deployed using a custom HTML page
+Features
 
-Ready to demonstrate live via browser
+*  Daily check-ins for sleep, water intake, steps, and mood
+
+*  Motivation messages and health tips
+
+*  Static progress summaries to encourage consistency
+
+*  Designed for ease of use with no-code tools on IBM Cloud
+
+Technologies Used
+
+*  IBM Watsonx Assistant
+
+*  IBM Web Chat Integration
+
+*  HTML and CSS template for deployment
+
+*  No external database used in this version
+
+Note: This assistant is designed as a lightweight, browser-based AI wellness tool suitable for students, employees, or general users.
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-05 025045" src="https://github.com/user-attachments/assets/277856a0-e001-40cc-932d-cba09307e01b" />
 
